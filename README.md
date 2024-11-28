@@ -1,1 +1,3 @@
 # Bike-Shop-Analysis-SQL-PowerBi
+
+The process of creating a data analysis project using SQL and Power BI started with uploading data to an SQL database hosted on my computer. Next, I wrote queries using SQL commands like JOIN and UNION ALL to combine and refine the data into a useful format. The analysis was focused on answering questions about the hours during which bicycles are most frequently rented, as well as other related questions. Once the data was prepared, I connected Power BI to the existing SQL database, importing the refined data into the tool. Finally, I created a dashboard in Power BI, which included various charts and filters, allowing for interactive exploration of rental patterns and answering all the key questions.
